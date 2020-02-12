@@ -8,4 +8,4 @@ app.get('/',(req,res)=>{
 
 app.set('port',3000 );
 
-app.listen(5000);
+app.listen(3000);
